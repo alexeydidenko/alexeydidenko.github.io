@@ -1055,7 +1055,7 @@ img {
 .map {
   position: relative;
   min-height: 429px;
-  background: #849d8f url("../img/map.jpg") no-repeat;
+  background: url("../img/map.jpg") no-repeat;
   background-position: center;
 }
 
